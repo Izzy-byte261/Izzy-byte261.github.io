@@ -39,7 +39,7 @@ permalink: /cv/
 - **Credit Card Fraud Detection Using Machine Learning** | Team Project (Team Lays) | 2026.02 - 2026.03
   - Led the **Model Selection and Training** module, independently implemented Logistic Regression and XGBoost algorithms, 5-fold cross-validation and hyperparameter tuning
   - Optimized XGBoost model achieved 83% fraud recall rate and 0.98 AUC-ROC; SMOTE oversampling improved F1-score by 32.1%
-  - Wrote the complete Section 6 "Method" of the final report, created corresponding presentation slides and completed cross-team technical handoff
+  - Wrote the complete "Method" of the final report, created corresponding presentation slides and completed cross-team technical handoff
 - **Q-Learning Based Tic-Tac-Toe AI Game** | Individual Project | 2026.02 - 2026.03
   - Independently implemented the standard Q-Learning reinforcement learning algorithm, trained a near-optimal strategy AI through 100,000 self-play games
   - Developed a complete Pygame graphical interface supporting 10-game series, real-time Q-value display and Q-table save/load functionality
