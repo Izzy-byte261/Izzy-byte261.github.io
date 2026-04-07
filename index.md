@@ -16,4 +16,8 @@ permalink: /
 ---
 
 ### Quick Navigation
-- [About Me](sslocal://flow/file_open?url=%2Fabout&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | [Skills](sslocal://flow/file_open?url=%2Fskills&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | [Project Portfolio](sslocal://flow/file_open?url=%2Fprojects&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | [Download CV](sslocal://flow/file_open?url=%2Fcv&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=) | [Contact Me](sslocal://flow/file_open?url=%2Fcontact&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+- [About Me](sslocal://flow/file_open?url=%2Fabout&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+- [Skills](sslocal://flow/file_open?url=%2Fskills&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+- [Project Portfolio](sslocal://flow/file_open?url=%2Fprojects&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+- [Download CV](sslocal://flow/file_open?url=%2Fcv&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+- [Contact Me](sslocal://flow/file_open?url=%2Fcontact&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
