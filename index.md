@@ -16,8 +16,8 @@ permalink: /
 ---
 
 ### Quick Navigation
-- [About Me](sslocal://flow/file_open?url=%7B%7B+site.baseurl+%7D%7D%2Fabout%2F&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-- [Skills](sslocal://flow/file_open?url=%7B%7B+site.baseurl+%7D%7D%2Fskills%2F&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-- [Project Portfolio](sslocal://flow/file_open?url=%7B%7B+site.baseurl+%7D%7D%2Fprojects%2F&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-- [Download CV](sslocal://flow/file_open?url=%7B%7B+site.baseurl+%7D%7D%2Fcv%2F&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-- [Contact Me](sslocal://flow/file_open?url=%7B%7B+site.baseurl+%7D%7D%2Fcontact%2F&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+- [About Me](sslocal://flow/file_open?url=https%3A%2F%2Fizzy-byte261.github.io%2Fabout%2F&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+- [Skills](sslocal://flow/file_open?url=https%3A%2F%2Fizzy-byte261.github.io%2Fskills%2F&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+- [Project Portfolio](sslocal://flow/file_open?url=https%3A%2F%2Fizzy-byte261.github.io%2Fprojects%2F&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+- [Download CV](sslocal://flow/file_open?url=https%3A%2F%2Fizzy-byte261.github.io%2Fcv%2F&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
+- [Contact Me](sslocal://flow/file_open?url=https%3A%2F%2Fizzy-byte261.github.io%2Fcontact%2F&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
