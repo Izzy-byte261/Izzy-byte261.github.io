@@ -6,8 +6,7 @@ permalink: /cv/
 
 ## 📄 Curriculum Vitae
 ### Download Full CV
-[Click to Download PDF CV](sslocal://flow/file_open?url=Replace+with+your+Google+Drive+CV+share+link+here&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)
-
+<a href="/images/CV_Ziyin Zhong.pdf" download="CV_Ziyin Zhong.pdf">Click to Download PDF CV</a>
 ---
 
 ### CV Summary
